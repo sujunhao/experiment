@@ -10,7 +10,7 @@ using namespace std;
 double num[MAX], x, y, xx[MAX];
 int  n=1, k, xn, nn;
 
-double fun(const double x, int n, double num[])
+double fun(const double x, int n, double num[]) //Lagrange插值 num[]放n个已知点， 1~n/2为xi,n/2+1~n为yi x为自变量
 {
     double y=0;
     for (int i=1; i<=n/2; i++){
