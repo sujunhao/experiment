@@ -2,5 +2,5 @@
 some codes from experiment
 
 
-CM
-1.Lagrange
+<a href="https://github.com/sujunhao/experiment/blob/master/Computational%20Methods/project1.cpp" CM
+1.Lagrange</a>
