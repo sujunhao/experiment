@@ -5,7 +5,7 @@
 #define EE 2.71828182846
 #define PI 3.14159265359
 using namespace std;
-/*节点不是越多越好，多项式次数不是越高越好。节点取随机，求内插值效果好*/
+/*结果：节点不是越多越好，多项式次数不是越高越好；节点取随机，求内插值效果好*/
 
 double num[MAX], x, y, xx[MAX];
 int  n=1, k, xn, nn;
