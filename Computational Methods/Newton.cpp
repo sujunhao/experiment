@@ -10,14 +10,7 @@
 using namespace std;
 
 int n;
-double p[MAX][MAX], cnt[MAX];
-
-double getcnt(int n)
-{
-    if (!cnt[n-1]) getcnt(n-1);
-    cnt[n]=cnt[n-1]*n;
-    return cnt[n];
-}
+double p[MAX][MAX];
 
 //求多项式的系数
 void getp(int n)
@@ -96,9 +89,7 @@ int main()
     int N;
     double e1, e2, x, res;
     getp(6);
-    cnt[1]=1;
-    getcnt(6);
-
+    
     e1=0.00000001;
     e2=0.0001;
     N=20;
