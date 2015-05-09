@@ -20,3 +20,9 @@ Runge-Kutta四阶方法</a>
 <a href="https://github.com/sujunhao/experiment/blob/master/Computational%20Methods/Newton.cpp">
 Newton 迭代法求根</a>
 </li>
+</ol>
+
+BS
+
+1. [数据分组，特征值求值](Biostatitics)
+
