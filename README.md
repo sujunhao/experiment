@@ -1,4 +1,4 @@
-# experiment
+﻿# experiment
 some codes from experiment
 
 
@@ -25,4 +25,8 @@ Newton 迭代法求根</a>
 BS
 
 1. [数据分组，特征值求值](https://github.com/sujunhao/experiment/tree/master/Biostatistics)
+
+
+R
+[基础分析]()
 
