@@ -23,7 +23,7 @@ aov(x~a, data= rat)
 ##双因素方差分析
 aov(x~a+b, data = rat)
 
-##茜因设计方差分析
+##析因设计方差分析
 aov(x~a*b, data= rat)
 
 
